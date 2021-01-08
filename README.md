@@ -17,8 +17,8 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/Arya274/Arya-Bot
-> cd Arya-Bot
+> git clone https://github.com/yanzzbot/botwa
+> cd botwa
 > npm i
 > node index.js
 > Tinggal scan qr dah
