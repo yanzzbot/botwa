@@ -1,6 +1,6 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
-NFQ BOT 🤖
+🐼 YanzzBOT 🤖
 Rec: ~Drawl Nag
 
 ➸ Prefix:  *「 ${_p} 」*
@@ -53,10 +53,10 @@ Github:
 https://github.com/Arya274/Arya-Bot
 
 YouTube: 
-https://www.youtube.com/c/DrawlNag
+https://www.youtube.com/c/YanzzOfficial
 
 OwNer:
-*Wa.me/6288235435804*
+*Wa.me/6281803522862*
 ==================
 `.trim(), m)
 }
