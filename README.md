@@ -49,4 +49,4 @@ Sebelum lu jalanin sc nya install dulu lah.
 * [`NUROTOMO`](https://github.com/Nurotomo)
 
 ### SOSMED
-* Youtube: Drawl Nag
+* Youtube: Yanzz Official
